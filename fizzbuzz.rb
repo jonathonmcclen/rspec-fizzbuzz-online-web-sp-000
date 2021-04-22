@@ -4,10 +4,11 @@
 
 def fizzbuzz(int)
   if int % 3 == 0
-    ifint % 3 && 5 == 0
+    if int % 3 && 5 == 0
     
     "Fizz"
-    
+    else
+    end
     
   elsif int % 5 == 0
     "Buzz"
